@@ -26,3 +26,9 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Markdown Files
+demo_repo_are.md
+
+# Directories
+.planning/
