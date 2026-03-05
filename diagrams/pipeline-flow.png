@@ -1,0 +1,2 @@
+[PLACEHOLDER: Replace this file with the actual pipeline flow diagram PNG]
+Sequence: Harvester -> GDPR Shield -> Auditor (PostGIS) -> RAG Context -> Studio (Python) -> Nexus (Delivery)

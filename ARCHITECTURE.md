@@ -52,8 +52,13 @@ graph LR
 
 ---
 
-## System Overview Diagram
-![System Overview](./diagrams/system-overview.jpg)
+## System Diagrams
+
+### System Overview
+![System Overview](./diagrams/system-overview.png)
+
+### Pipeline Flow
+![Pipeline Flow](./diagrams/pipeline-flow.png)
 
 ---
 
