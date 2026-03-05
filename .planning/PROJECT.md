@@ -13,8 +13,7 @@ Public architecture documentation of a Hybrid Rust/Python pipeline for automated
   - Tagged `v1.0.0`.
 
 ## **Current Milestone**
-- **Milestone 2: Quality Audit & Deployment**
+- **Milestone 3: Renaming to are-demo-pipeline**
   - **Goals:**
-    - Audit all architectural implementations for consistency and completeness.
-    - Fix any issues identified in documentation or examples.
-    - Prepare and push the repository to GitHub.
+    - Replace all occurrences of `are-audit-pipeline` with `are-demo-pipeline` across the entire codebase and documentation.
+    - Ensure consistency in repository naming, links, and code examples.
