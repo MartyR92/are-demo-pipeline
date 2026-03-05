@@ -1,4 +1,4 @@
-# Audit Summary: are-audit-pipeline
+# Audit Summary: are-demo-pipeline
 
 ## Executive Summary
 The repository is 90% compliant with the `demo_repo_are.md` specification. The core architecture, ADRs, and English-first documentation policy are correctly implemented. The primary technical argument (Compile-Time GDPR) is well-documented and supported by code examples.
@@ -6,7 +6,7 @@ The repository is 90% compliant with the `demo_repo_are.md` specification. The c
 ## Key Findings
 - **Missing Asset:** `diagrams/pipeline-flow.png` is missing and not referenced in `ARCHITECTURE.md`.
 - **Spec Deviation:** `system-overview` uses `.jpg` instead of `.png`. The spec prefers `.png`.
-- **Badge Accuracy:** `README.md` badge points to `MartyR92/are-audit-pipeline`. This must match the actual GitHub repository name and owner.
+- **Badge Accuracy:** `README.md` badge points to `MartyR92/are-demo-pipeline`. This must match the actual GitHub repository name and owner.
 - **Code Integrity:** Examples for Rust, Python, and SQL are high-quality and match the architectural narrative.
 
 ## Gaps & Fixes Needed

@@ -1,5 +1,5 @@
 [package]
-name = "are-audit-pipeline"
+name = "are-demo-pipeline"
 version = "1.0.0"
 edition = "2021"
 description = "Hybrid Rust/Python pipeline for real estate compliance and AI asset generation."

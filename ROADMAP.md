@@ -10,17 +10,8 @@
 - [x] Phase 5: Technical Verification.
 - [x] Phase 6: GitHub Launch.
 
-## **Milestone 3: Renaming to are-demo-pipeline (CURRENT)**
-
-### **Phase 7: Global Renaming**
-- **Goal:** Replace all occurrences of `are-audit-pipeline` with `are-demo-pipeline`.
-- **Tasks:**
-  - Update `README.md` and `CHANGELOG.md`.
-  - Update `Cargo.toml`.
-  - Update `.planning/` documents.
-  - Update `1-UAT.md`.
-  - Update `demo_repo_are.md`.
-  - Final verification using `grep_search`.
+## **Milestone 3: Renaming to are-demo-pipeline (COMPLETED)**
+- [x] Phase 7: Global Renaming.
 
 ---
 ## **Future Milestones**

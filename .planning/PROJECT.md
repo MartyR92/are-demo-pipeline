@@ -1,4 +1,4 @@
-# Project: are-audit-pipeline
+# Project: are-demo-pipeline
 
 ## **Overview**
 Public architecture documentation of a Hybrid Rust/Python pipeline for automated real estate compliance and AI asset generation.
@@ -15,5 +15,5 @@ Public architecture documentation of a Hybrid Rust/Python pipeline for automated
 ## **Current Milestone**
 - **Milestone 3: Renaming to are-demo-pipeline**
   - **Goals:**
-    - Replace all occurrences of `are-audit-pipeline` with `are-demo-pipeline` across the entire codebase and documentation.
+    - Replace all occurrences of `are-audit-pipeline` with `are-demo-pipeline` across the entire codebase and documentation. (COMPLETED)
     - Ensure consistency in repository naming, links, and code examples.

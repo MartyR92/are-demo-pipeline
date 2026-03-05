@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the `are-audit-pipeline` architecture repository will be documented in this file.
+All notable changes to the `are-demo-pipeline` architecture repository will be documented in this file.
 
 ## [1.0.1] — 2026-03-05
 ### Fixed

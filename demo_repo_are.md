@@ -1,4 +1,4 @@
-# Demo-Repo: are-audit-pipeline
+# Demo-Repo: are-demo-pipeline
 ## Anleitung für ein öffentliches Architektur-Repository
 
 ---
@@ -14,7 +14,7 @@ RAG-basierte Compliance-Logik und die Designentscheidungen dahinter.
 
 ## Repository anlegen
 
-**Name:** `are-audit-pipeline`
+**Name:** `are-demo-pipeline`
 **Sichtbarkeit:** Public
 **Description:**
 > Hybrid Rust/Python pipeline. Geospatial compliance + RAG legal auditing + AI asset generation. 14 days → 45 min. GDPR enforced at compile time.
@@ -30,7 +30,7 @@ RAG-basierte Compliance-Logik und die Designentscheidungen dahinter.
 ## Dateistruktur
 
 ```
-are-audit-pipeline/
+are-demo-pipeline/
 ├── README.md
 ├── ARCHITECTURE.md
 ├── CASE_STUDY.md
@@ -75,7 +75,7 @@ Interne Dokumentation kann Deutsch sein. Nicht mischen.
 ![Stack](https://img.shields.io/badge/Stack-Rust_%2B_Python-1A5F7A?style=flat-square)
 ![GDPR](https://img.shields.io/badge/GDPR-Compile--Time_Enforced-0E8A5F?style=flat-square)
 ![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Compliant-0E8A5F?style=flat-square)
-![CI](https://github.com/MartyR92/are-audit-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MartyR92/are-demo-pipeline/actions/workflows/ci.yml/badge.svg)
 ```
 
 **2. One-liner**
@@ -325,7 +325,7 @@ Kurz, konkret:
 
 ```toml
 [package]
-name = "are-audit-pipeline"
+name = "are-demo-pipeline"
 version = "1.0.0"
 edition = "2021"
 
@@ -479,7 +479,7 @@ jobs:
 
 Badge in README:
 ```markdown
-![CI](https://github.com/MartyR92/are-audit-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MartyR92/are-demo-pipeline/actions/workflows/ci.yml/badge.svg)
 ```
 
 ---
@@ -531,5 +531,5 @@ ci: add Cargo clippy workflow
 
 ## Pinnen im Profil
 
-`are-audit-pipeline` als erste gepinnte Position.
+`are-demo-pipeline` als erste gepinnte Position.
 Stärkste Outcome-Metriken (14 Tage → 45 Min, €450 → €3.50).

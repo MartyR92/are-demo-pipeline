@@ -1,11 +1,11 @@
-# are-audit-pipeline
+# are-demo-pipeline
 ## Public Architecture Documentation
 
 ![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Rust_%2B_Python-1A5F7A?style=flat-square)
 ![GDPR](https://img.shields.io/badge/GDPR-Compile--Time_Enforced-0E8A5F?style=flat-square)
 ![EU AI Act](https://img.shields.io/badge/EU_AI_Act-Compliant-0E8A5F?style=flat-square)
-![CI](https://github.com/MartyR92/are-audit-pipeline/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/MartyR92/are-demo-pipeline/actions/workflows/ci.yml/badge.svg)
 
 > Autonomous property intelligence pipeline. Rust controls the data. Python handles the AI. GDPR compliance is enforced by the compiler, not by convention.
 

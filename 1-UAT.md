@@ -2,7 +2,7 @@
 
 ## **Project Status**
 - **Phase:** 1 (Public Architecture Repository Setup)
-- **Repo Name:** `are-audit-pipeline`
+- **Repo Name:** `are-demo-pipeline`
 - **Tag:** `v1.0.0`
 - **Total Tests:** 4
 

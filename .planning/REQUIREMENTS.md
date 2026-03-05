@@ -1,11 +1,11 @@
 # Milestone 3: Renaming to are-demo-pipeline Requirements
 
 ## **Objective**
-Systematically rename all occurrences of `are-audit-pipeline` to `are-demo-pipeline` across the repository to align with the new project name.
+Systematically rename all occurrences of `are-demo-pipeline` to `are-demo-pipeline` across the repository to align with the new project name.
 
 ## **Functional Requirements**
 ### **1. Global Replacement**
-- **FR.1:** Replace `are-audit-pipeline` with `are-demo-pipeline` in:
+- **FR.1:** Replace `are-demo-pipeline` with `are-demo-pipeline` in:
   - `README.md` (Title and Badges)
   - `Cargo.toml` (Package Name)
   - `CHANGELOG.md`
@@ -19,8 +19,8 @@ Systematically rename all occurrences of `are-audit-pipeline` to `are-demo-pipel
 
 ## **Non-Functional Requirements**
 ### **3. Consistency**
-- **NFR.1:** The replacement must be surgical, affecting only the string "are-audit-pipeline" without altering surrounding context or formatting.
+- **NFR.1:** The replacement must be surgical, affecting only the string "are-demo-pipeline" without altering surrounding context or formatting.
 
 ## **Success Criteria**
-1.  `grep_search` for `are-audit-pipeline` returns zero results.
+1.  `grep_search` for `are-demo-pipeline` returns zero results.
 2.  All modified files maintain their original structural integrity.
