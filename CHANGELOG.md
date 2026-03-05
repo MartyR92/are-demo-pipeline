@@ -2,6 +2,13 @@
 
 All notable changes to the `are-audit-pipeline` architecture repository will be documented in this file.
 
+## [1.0.1] — 2026-03-05
+### Fixed
+-   Standardized all diagram extensions to `.png` for consistency with the specification.
+-   Added a structural placeholder for the missing `pipeline-flow.png`.
+-   Updated `ARCHITECTURE.md` to include both `system-overview.png` and `pipeline-flow.png`.
+-   Verified all internal links and English-first language policy.
+
 ## [1.0.0] — 2025-Q4
 ### Initial Release
 -   **Architecture:** Core Documentation (README, ARCHITECTURE, CASE_STUDY).
